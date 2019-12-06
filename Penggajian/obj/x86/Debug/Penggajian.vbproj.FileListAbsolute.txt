@@ -1,0 +1,44 @@
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\bin\Debug\Penggajian.exe
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\bin\Debug\Penggajian.pdb
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\bin\Debug\Penggajian.xml
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Form1.resources
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Resources.resources
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.exe
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.xml
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.pdb
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.exe
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.xml
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.pdb
+D:\hendro\Penggajian\Penggajian\bin\Debug\Penggajian.exe
+D:\hendro\Penggajian\Penggajian\bin\Debug\Penggajian.pdb
+D:\hendro\Penggajian\Penggajian\bin\Debug\Penggajian.xml
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Form1.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Resources.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FCari.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbprojResolveAssemblyReference.cache
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FJabatan.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FMenu.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FPenggajian.resources
+D:\hendro\Penggajian\Penggajian\bin\Debug\Penggajian.exe.config
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.PrKaryawan.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.PrPenggajian.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FPrint.resources
+C:\Users\HENDRO\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\bin\Debug\Penggajian.exe.config
+C:\Users\HENDRO\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.exe
+C:\Users\HENDRO\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.xml
+C:\Users\HENDRO\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.pdb
+C:\Users\HENDRO\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.vbprojResolveAssemblyReference.cache
+E:\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\bin\Debug\Penggajian.exe.config
+E:\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.exe
+E:\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.xml
+E:\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.pdb
+D:\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\bin\Debug\Penggajian.exe.config
+D:\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.exe
+D:\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.xml
+D:\Google Drive\aplikasibuatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.pdb
+D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\Penggajian\bin\Debug\Penggajian.exe.config
+D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.xml
+D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.pdb
+D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.vbprojResolveAssemblyReference.cache

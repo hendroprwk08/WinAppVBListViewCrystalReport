@@ -1,0 +1,57 @@
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\bin\Debug\Penggajian.exe
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\bin\Debug\Penggajian.pdb
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\bin\Debug\Penggajian.xml
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Form1.resources
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Resources.resources
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.exe
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.xml
+c:\users\pc dosen\documents\visual studio 2010\Projects\Penggajian\Penggajian\obj\x86\Debug\Penggajian.pdb
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.exe
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.xml
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.pdb
+D:\hendro\Penggajian\Penggajian\bin\Debug\Penggajian.exe
+D:\hendro\Penggajian\Penggajian\bin\Debug\Penggajian.pdb
+D:\hendro\Penggajian\Penggajian\bin\Debug\Penggajian.xml
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Form1.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Resources.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Jabatan.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Menu.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Penggajian.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FCari.resources
+D:\hendro\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbprojResolveAssemblyReference.cache
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.exe
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.xml
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.pdb
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbprojResolveAssemblyReference.cache
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FCari.resources
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Form1.resources
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Resources.resources
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\bin\Debug\Penggajian.exe
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\bin\Debug\Penggajian.pdb
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\bin\Debug\Penggajian.xml
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FPenggajian.resources
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FJabatan.resources
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FMenu.resources
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.PrKaryawan.resources
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.PrPengajuan.resources
+C:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FPrint.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.exe
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.xml
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.pdb
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\bin\Debug\Penggajian.exe
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\bin\Debug\Penggajian.pdb
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\bin\Debug\Penggajian.xml
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbprojResolveAssemblyReference.cache
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FCari.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Form1.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FJabatan.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FMenu.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FPrint.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.Resources.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.FPenggajian.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.PrKaryawan.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.PrPengajuan.resources
+E:\OneDrive\aplikasi buatanku\Penggajian\Penggajian\obj\x86\Debug\Penggajian.vbproj.GenerateResource.Cache
