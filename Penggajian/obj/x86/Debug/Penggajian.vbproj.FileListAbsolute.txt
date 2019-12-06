@@ -42,3 +42,6 @@ D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\Penggajian\bin\Debug\Penggajian
 D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.xml
 D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.pdb
 D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\Penggajian\obj\x86\Debug\Penggajian.vbprojResolveAssemblyReference.cache
+D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\WinAppVBListViewCrystalReport\Penggajian\bin\Debug\Penggajian.exe.config
+D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\WinAppVBListViewCrystalReport\Penggajian\obj\x86\Debug\Penggajian.xml
+D:\OneDrive - Lo\Buatanku\Penggajian - cileungsi\WinAppVBListViewCrystalReport\Penggajian\obj\x86\Debug\Penggajian.pdb
